@@ -136,7 +136,7 @@
 }
 .footer_widget{
     background-color:	rgb(51, 51, 51);
-    height: 400px;
+    height: 360px;
 }
 .footer_widget div{
     display: inline-block;
@@ -155,10 +155,13 @@
     text-decoration: none;
     color: white;
 }
-.rights{
+footer .rights{
     color: white;
     text-align: center;
-    padding-bottom: 20px;
+    margin-top: 0;
+    padding-bottom: 10px;
+    background-color:	rgb(51, 51, 51);
+    /*padding-bottom: 20px;*/
 }
 
 
